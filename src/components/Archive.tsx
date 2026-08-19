@@ -29,8 +29,8 @@ export default function Archive() {
     <section id="archive" className="scroll-mt-24 py-16 lg:py-24">
       <SectionHeading index="04" title="Archive" />
       <p className="mb-8 max-w-xl text-sm text-mist">
-        A collection of previous portfolio versions showcasing my evolution as
-        a developer over the years.
+        A collection of my past portfolios from different points in my journey
+        as a developer.
       </p>
 
       <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -66,7 +66,13 @@ export default function Archive() {
 
 function ExternalIcon() {
   return (
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <svg
+      width="20"
+      height="20"
+      viewBox="0 0 24 24"
+      fill="none"
+      aria-hidden="true"
+    >
       <path
         d="M7 17L17 7M17 7H8M17 7V16"
         stroke="currentColor"

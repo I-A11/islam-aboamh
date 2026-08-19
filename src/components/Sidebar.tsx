@@ -16,19 +16,16 @@ export default function Sidebar() {
   return (
     <header className="lg:fixed lg:flex lg:h-screen lg:w-[--sidebar-width] lg:flex-col lg:justify-between px-8 py-12 lg:py-16 [--sidebar-width:40%] xl:[--sidebar-width:34%]">
       <div>
-        <a
-          href="#"
-          className="font-display text-3xl font-semibold text-bright"
-        >
+        <a href="#" className="font-display text-3xl font-semibold text-bright">
           Islam Aboamh
         </a>
         <p className="mt-3 font-display text-lg text-paper">
           Frontend Developer
         </p>
         <p className="mt-4 max-w-xs text-sm leading-relaxed text-mist">
-          I build responsive, production-ready interfaces with React,
-          Next.js, and TypeScript — for clients, and for the sake of
-          learning something new. Based in Sydney, Australia.
+          I build responsive, production-ready interfaces with React, Next.js,
+          and TypeScript. I work with clients and build things on the side to
+          keep learning. Based in Sydney, Australia.
         </p>
 
         <nav className="mt-14 hidden lg:block" aria-label="Section navigation">

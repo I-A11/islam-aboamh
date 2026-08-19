@@ -19,19 +19,21 @@ export default function About() {
         <p>
           I&apos;m a frontend developer with around four years of production
           experience, currently splitting my time between contract client work
-          and actively interviewing for mid-level frontend roles in the
-          Australian market.
+          and actively interviewing for frontend roles in the Australian market.
         </p>
         <p>
-          My focus is building interfaces that hold up under real constraints —
-          client deadlines, content that changes hands to non-technical owners,
-          and the small edge cases that only show up once something is live. I
-          care as much about how a project is delivered as how it looks.
+          I enjoy building interfaces that work well in the real world, not just
+          in a design file. That means dealing with tight deadlines, changing
+          content, handing projects over to non-technical clients, and fixing
+          the little edge cases that tend to appear once a site is live. For me,
+          the way a project is built and handed over is just as important as how
+          it looks.
         </p>
         <p>
-          Outside client work, I keep sharpening fundamentals through
-          self-directed projects and algorithm practice — the kind of work that
-          doesn&apos;t have a deadline, only a next problem.
+          Outside of client work, I spend time on personal projects and
+          algorithm practice. There’s no deadline with those projects. I usually
+          just pick something I want to improve or a problem I want to figure
+          out.
         </p>
       </div>
 
