@@ -14,7 +14,7 @@ const socials = [
 
 export default function Sidebar() {
   return (
-    <header className="lg:fixed lg:flex lg:h-screen lg:w-[--sidebar-width] lg:flex-col lg:justify-between px-8 py-12 lg:py-16 [--sidebar-width:40%] xl:[--sidebar-width:34%]">
+    <header className="lg:sticky lg:top-0 lg:flex lg:h-screen lg:w-[--sidebar-width] lg:flex-col lg:justify-between lg:self-start px-8 py-12 lg:py-16 [--sidebar-width:40%] xl:[--sidebar-width:34%]">
       <div>
         <a href="#" className="font-display text-3xl font-semibold text-bright">
           Islam Aboamh

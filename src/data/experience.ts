@@ -16,21 +16,6 @@ export const experience: ExperienceEntry[] = [
     tech: ["Wix", "Domain Management", "Client Communication"],
     liveUrl: "https://angelinedalmau.com",
   },
-  {
-    id: "Petals Blooms",
-    role: "Freelance Frontend Developer",
-    organisation: "Petals Blooms",
-    period: "",
-    summary:
-      "WordPress e-commerce website focused on easy client management and cost-effective development.",
-    highlights: [
-      "Built a self-manageable online store using WordPress and WooCommerce.",
-      "Configured WooCommerce and additional SEO functionality to provide the features and structure expected from a professional e-commerce website.",
-      "Delivered a cost-effective alternative to a fully custom e-commerce solution.",
-    ],
-    tech: ["WordPress", "WooCommerce", "Hostinger", "SEO", "E-commerce"],
-    liveUrl: "https://petalsblooms.com.au/",
-  },
 
   {
     id: "Fintacs Tax",
@@ -61,6 +46,21 @@ export const experience: ExperienceEntry[] = [
     ],
     tech: ["Next.js", "React", "Tailwind CSS", "Netlify", "GitHub"],
     liveUrl: "https://coreplex.netlify.app/",
+  },
+  {
+    id: "Petals Blooms",
+    role: "Freelance Frontend Developer",
+    organisation: "Petals Blooms",
+    period: "",
+    summary:
+      "WordPress e-commerce website focused on easy client management and cost-effective development.",
+    highlights: [
+      "Built a self-manageable online store using WordPress and WooCommerce.",
+      "Configured WooCommerce and additional SEO functionality to provide the features and structure expected from a professional e-commerce website.",
+      "Delivered a cost-effective alternative to a fully custom e-commerce solution.",
+    ],
+    tech: ["WordPress", "WooCommerce", "Hostinger", "SEO", "E-commerce"],
+    // liveUrl: "https://petalsblooms.com.au/",
   },
   {
     id: "The Compounding Warehouse",
